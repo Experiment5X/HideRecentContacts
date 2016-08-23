@@ -1,0 +1,8 @@
+Package: com.expetelek.HideRecentContacts
+Name: HideRecentContacts 
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide the your recent contacts in the app switcher
+Author: Adam Spindler
+Section: Tweaks
